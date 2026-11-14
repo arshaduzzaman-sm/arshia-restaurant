@@ -4,7 +4,14 @@ A cinematic, 3D-styled website for a fictional fine-dining restaurant, built wit
 
 **[Live Demo](https://arshaduzzaman3620.github.io/arshia-restaurant/)**
 
-![Arshia Restaurant homepage](assets/preview.jpg)
+
+
+https://github.com/user-attachments/assets/6372efe0-3fc9-4322-b415-d806319f8c52
+
+
+
+
+
 
 
 
